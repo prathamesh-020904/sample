@@ -1,4 +1,5 @@
 # sample
 first_repo
 <br>
-Author -Prathamesh
+Author -Prathamesh Rananavare
+
